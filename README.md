@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![image info](./h3ll0w0r1d.jpeg)
+![h3ll0w0r1d](./h3ll0w0r1d.jpeg)
 
 👋 H3LL0 W0R1D,
 Hi my name is Raghuram, 14 years old, I am passionate in software and hardware. Student at Primus School.
