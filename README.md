@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👋 H3LL0 W0R1D,
 Hi my name is Raghuram, 14 years old, I am passionate in software and hardware. Student at Primus School.
 
-⚡ Favorite OS: Ubuntu (With forensic tools :))
+⚡ Favorite OS: Ubuntu (With forensic tools!)
 
 ⚡ Certifications: Comptia Fundamentals+
 
