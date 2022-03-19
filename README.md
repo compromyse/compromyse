@@ -34,4 +34,4 @@ In my free time I like to play soccer, table tennis and badminton. I also like t
 
 📧 Mail me at: raghus2247@gmail.com
 
-💬 My discord: ֆȶǟɢɛʄʀɨɢɦȶ#9042
+💬 My discord: ƈσɱρɾσɱყʂҽ#9042
