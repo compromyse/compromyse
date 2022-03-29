@@ -26,7 +26,7 @@ Hi my name is Raghuram, 14 years old, I'm passionate in hacking and breaking thi
 
 ⚡ Inspiration: Samy Kamkar
 
-In my free time I like to play soccer, table tennis and badminton. I also like to tinker with linux and RaspberryPis
+> In my free time I like to play soccer, table tennis and badminton. I also like to tinker with linux and RaspberryPis
 
 ❤️ Favorite Quote:
 
