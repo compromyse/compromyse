@@ -30,7 +30,7 @@ In my free time I like to play soccer, table tennis and badminton. I also like t
 
 ❤️ Favorite Quote:
 
-“The quieter you become, the more you are able to hear…” ― Kali Linux
+“The quieter you become, the more you are able to hear…” ― Ram Dass
 
 📧 Mail me at: raghus2247@gmail.com
 
